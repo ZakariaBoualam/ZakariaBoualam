@@ -2,7 +2,7 @@
 
 # Bonjour, moi c'est Zakaria 👋
 
-**Développeur web_full stack — PHP, MySQL, JavaScript**
+**Développeur web HTML - CSS  — PHP, MySQL, JavaScript**
 
 <p>
   <a href="https://github.com/ZakariaBoualam?tab=repositories&sort=stargazers">
